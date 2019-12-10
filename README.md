@@ -4,6 +4,8 @@
 
 App to build your robot choosing different purchasable parts!
 
+https://build-a-robot-qks257.firebaseapp.com/
+
 ## Available Scripts
 
 In the project directory, you can run:
@@ -15,4 +17,4 @@ Open [http://localhost:8080](http://localhost:8080) to view it in the browser.
 
 ## Technologies
 
-Vue.js && JS
+Vue.js && JS && Firebase
